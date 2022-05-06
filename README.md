@@ -21,9 +21,6 @@
  	<a href="https://www.twitch.tv/viinnalol" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "vittordaniel1108@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/viinnalol" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <img align="right" alt="Vittor-pic" height="150" style="border-radius:50px;" src="https://lh4.googleusercontent.com/Zj6TC7hDQik_aBQLnclr3JLL--YQzt5eYRN-u1yqBGFrQxntN9Q5hQ9K5cL74d7xAifENs8j3Wgo8HUoht-1EOY=w1280">
-  
-   ![Snake animation](https://github.com/Vittor1108/Vittor1108/blob/output/github-contribution-grid-snake.svg)
-  
+  <img align="right" alt="Vittor-pic" height="150" style="border-radius:50px;" src="https://lh4.googleusercontent.com/Zj6TC7hDQik_aBQLnclr3JLL--YQzt5eYRN-u1yqBGFrQxntN9Q5hQ9K5cL74d7xAifENs8j3Wgo8HUoht-1EOY=w1280">  
 </div>
   
