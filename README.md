@@ -1,13 +1,14 @@
 ### Olá, Bem vindo ao meu GitHub 👋
 
 - 🔭 Em busca de um emprego como desenvolvedor Junior...
-- 🌱 Estudando JavaScript...
-- 📫 Contate-me no email: vittordaniel1108@gmail || (11) 984715266 ...
+- 🌱 Estudando ReactJs...
+
 <br>
 <div style="display: inline_block"><br>
      <img align="center" alt="Vittor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
      <img align="center" alt="Vittor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
      <img align="center" alt="Vittor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+     <img align="center" alt="Vittor-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
 </div>
 <br>
 <div>
