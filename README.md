@@ -29,4 +29,4 @@
   <img align="center" src="https://lh3.googleusercontent.com/7kmYyIPLVA5zxwXAbsMBc2coNNHpU416so9rCYh3yf58sa5NNnkdkFpDihMGAknpuIsiOkNJYrzS2d25GCTtPZg=w1280">
  </p>
  
-  ![cobrinha](https://github.com/Vittor1108/Vittor1108/blob/output/github-contribution-grid-snake.svg)
+  ![Snake Animation](https://github.com/Vittor1108/Vittor1108/blob/output/github-contribution-grid-snake.svg)
