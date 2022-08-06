@@ -1,9 +1,16 @@
-### Olá, Bem vindo ao meu GitHub 👋
+### Olá, me chamo Vittor Daniel e atualmente estou 100% focado em aprender!
 
 - 🔭 Em busca de um emprego como desenvolvedor Junior...
 - 🌱 Estudando ReactJs...
 
 <br>
+
+<div align="center">
+  <a href="https://vittordaniel1108.000webhostapp.com">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vittor1108&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vittor1108&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 <div style="display: inline_block"><br>
      <img align="center" alt="Vittor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
      <img align="center" alt="Vittor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
