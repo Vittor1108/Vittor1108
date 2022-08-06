@@ -25,5 +25,8 @@
   <a href = "vittordaniel1108@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/viinnalol" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-  
- ![Snake animation](https://github.com/Vittor1108/Vittor1108/blob/output/github-contribution-grid-snake.svg)
+ <p>
+  <img align="center" src="https://lh3.googleusercontent.com/7kmYyIPLVA5zxwXAbsMBc2coNNHpU416so9rCYh3yf58sa5NNnkdkFpDihMGAknpuIsiOkNJYrzS2d25GCTtPZg=w1280">
+ </p>
+ 
+  ![cobrinha](https://github.com/Vittor1108/Vittor1108/blob/output/github-contribution-grid-snake.svg)
