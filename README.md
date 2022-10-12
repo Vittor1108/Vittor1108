@@ -1,7 +1,7 @@
 ### Olá, me chamo Vittor Daniel e atualmente estou 100% focado em aprender!
 
 - 🔭 Em busca de um emprego como desenvolvedor Junior...
-- 🌱 Estudando ReactJs...
+- 🌱 Estudando Angular e NodeJs
 
 <br>
 
