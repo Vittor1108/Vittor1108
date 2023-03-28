@@ -1,21 +1,52 @@
-<div align="center">
-  <a href="https://vittordaniel1108.000webhostapp.com">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vittor1108&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vittor1108&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
-<div style="display: inline_block"><br>
-     <img align="center" alt="Vittor-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-     <img align="center" alt="Vittor-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-     <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-     <img align="center" alt="Vittor-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-     <img align="center" alt="Vittor-nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-     <img align="center" height="30" width="40"  alt="Vittor-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-</div>
-<br>
-<div>
-  <a href = "vittordaniel1108@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+ <div align="center" >
+<img src="https://github-profile-trophy.vercel.app/?username=Vittor1108&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
+  <br />
+
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  
+
+  
+
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vittor1108&bg_color=red&color=bd93f9&line=bd93f9&point=f1f5f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vittor1108&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vittor1108&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
+
 
  
+
+  
+
+
+  
+ 
+   ![Snake animation](https://github.com/Vittor1108/Vittor1108/blob/output/github-contribution-grid-snake.svg)
+ 
+ 
+ 
+
+
+
+
+
+
+ 
+  
+  
+
+  
+
+
+
+<!--  <div style="">
+    
+   <div align='center'>
+<a height="150em" href="http://www.github.com/Vittor1108">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vittor1108&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
+</div>
+ 
+ </div> -->
