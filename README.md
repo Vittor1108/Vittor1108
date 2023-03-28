@@ -1,7 +1,3 @@
-### Espero que goste!!
-
-<br>
-
 <div align="center">
   <a href="https://vittordaniel1108.000webhostapp.com">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vittor1108&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
